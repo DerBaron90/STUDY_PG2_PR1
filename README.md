@@ -1,2 +1,2 @@
-# STUDY_PG2_PR1
+# STUDY_PG2_PR2
 Programming Homework at HDA Darmstadt
